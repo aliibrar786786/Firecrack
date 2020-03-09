@@ -47,7 +47,7 @@ more tools: :point_down:<br>
 * `apt-get install git`
 * `git clone https://github.com/Ranginang67/Firecrack`
 * `cd Firecrack`
-* `pip install -r requirements.txt`
+* `pip install -r requirements
 * `python firecrack.py`
 * `help`
 
